@@ -17,7 +17,7 @@ O app irá listar tarefas aleatórias que você pode fazer, em caso de tédio :)
 
 ### :computer: Tecnologias:
 - React Native
-- API bored: <a href="https://www.boredapi.com/" target='_blank'>https://www.boredapi.com/</a>
+- API bored: <a href="https://www.boredapi.com/" target="_blank">https://www.boredapi.com/</a>
 
 ## :mailbox_with_no_mail: Contatos
 E-mail: lumagoesmontes@gmail.com<br>
